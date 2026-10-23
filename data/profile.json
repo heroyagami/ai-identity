@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "schema_version": "1.0",
+  "visibility": "public",
+  "as_of": "2026-10-23",
+  "review_status": "draft_needs_owner_approval",
+  "identity": {
+    "display_name": "曹义德律师",
+    "github": "heroyagami",
+    "profession": "律师"
+  },
+  "interests": [
+    "法律内容",
+    "人工智能",
+    "自动化",
+    "软件工程"
+  ],
+  "communication": {
+    "preferred_language": "zh-CN",
+    "style": [
+      "结论先行",
+      "事实可核实",
+      "实施步骤清晰"
+    ]
+  },
+  "public_projects": [
+    {
+      "name": "caoyide-blog",
+      "url": "https://github.com/heroyagami/caoyide-blog"
+    },
+    {
+      "name": "WeChatScene",
+      "url": "https://github.com/heroyagami/WeChatScene"
+    }
+  ],
+  "provenance": {
+    "source": "user-shared prior conversation and verified GitHub repository visibility",
+    "credential_verification": false
+  }
+}
